@@ -2,9 +2,9 @@
   "name": "throwing-darts",
   "version": "1.0.0",
   "description": "You've just recently been hired to calculate scores for a Dart Board game",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --watch"
   },
   "repository": {
     "type": "git",
